@@ -3,12 +3,12 @@
 ## Я разработчик программного обеспечения на Java
 
 ```text
-Специализируюсь на создании микросервисных приложений. Проектировал архитектуру распределенных систем, настраивал 
-взаимодействие сервисов через Kafka, применял Eureka и API Gateway, писал интеграционные тесты.
+Специализируюсь на создании микросервисных приложений. Проектировал архитектуру распределенных систем, 
+настраивал взаимодействие сервисов через Kafka, применял Eureka и API Gateway, писал интеграционные тесты.
 
-В профессии меня увлекает возможность проектировать сложные системы и видеть результат своей работы, а также 
-постоянно изучать новые технологии. Мне важно работать в команде, где ценят качественный код, взаимопомощь и 
-профессиональный рост.
+В профессии меня увлекает возможность проектировать сложные системы и видеть результат своей работы, 
+а также постоянно изучать новые технологии. Мне важно работать в команде, где ценят качественный код, 
+взаимопомощь и профессиональный рост.
 
 Сейчас ищу возможность применить свои навыки в коммерческой разработке.
 ```
@@ -32,4 +32,7 @@ Latest Works
 [![Mockito](https://img.shields.io/badge/Mockito-black?style=for-the-badge)](https://site.mockito.org/)
 [![JUnit](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=junit5&logoColor=dc524a)](https://junit.org/)
 
-Follow me
+### Follow me
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-black?style=for-the-badge&logo=linkedin-white&logoColor=blue)]()
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/LeonidS353)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=vk&logoColor=4F7DB3)]()
