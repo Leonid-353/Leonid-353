@@ -16,7 +16,7 @@
 
 ### Последние работы
 
-[![Github Page](https://img.shields.io/badge/github%20page-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonid-353/java-plus-graduation)
+[![Github Pages](https://img.shields.io/badge/github%20pages-explore%20with%20me-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonid-353/java-plus-graduation)
 
 ### Языки и инструменты
 
