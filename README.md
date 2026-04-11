@@ -44,9 +44,8 @@
 
 ## Follow me:
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-black?style=for-the-badge&logo=linkedin-white&logoColor=blue)]()
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/LeonidS353)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:leonidkamka353@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-black?style=for-the-badge&logo=linkedin-white&logoColor=blue)]()
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=vk&logoColor=4F7DB3)]()
 
 ---
