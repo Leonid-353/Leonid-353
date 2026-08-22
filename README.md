@@ -16,7 +16,8 @@
 
 ## Latest projects:
 
-[![Github Pages](https://img.shields.io/badge/github%20pages-explore%20with%20me-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonid-353/java-plus-graduation)
+[![Github Pages](https://img.shields.io/badge/github%20pages-warehouse%20system-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonid-353/Warehouse_system)
+[![Explore With Me](https://img.shields.io/badge/explore%20with%20me-black?style=for-the-badge)](https://github.com/Leonid-353/java-plus-graduation)
 [![Smart Home Tech](https://img.shields.io/badge/smart%20home%20tech-black?style=for-the-badge)](https://github.com/Leonid-353/plus-smart-home-tech)
 [![Share It](https://img.shields.io/badge/share%20it-black?style=for-the-badge)](https://github.com/Leonid-353/java-shareit)
 [![Filmorate](https://img.shields.io/badge/filmorate-black?style=for-the-badge)](https://github.com/Leonid-353/java-filmorate)
@@ -34,11 +35,18 @@
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
 [![gRPC](https://img.shields.io/badge/gRPC-black?style=for-the-badge)](https://grpc.io/)
+[![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=redis)](https://redis.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![Liquibase](https://img.shields.io/badge/Liquibase-black?style=for-the-badge)](https://www.liquibase.com/)
+[![Flyway](https://img.shields.io/badge/Flyway-black?style=for-the-badge)](https://www.red-gate.com/products/flyway/)
 [![Maven](https://img.shields.io/badge/Apache%20Maven-black?style=for-the-badge&logo=apachemaven&logoColor=C71A36)](https://maven.apache.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=Gradle&logoColor=gradle)](https://gradle.org/)
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=%23F05033.svg)](https://git-scm.com/)
 [![Mockito](https://img.shields.io/badge/Mockito-black?style=for-the-badge)](https://site.mockito.org/)
 [![JUnit](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=junit5&logoColor=dc524a)](https://junit.org/)
+[![Testcontainers](https://img.shields.io/badge/Testcontainers-black?style=for-the-badge)](https://testcontainers.com/)
+[![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana&logoColor=grafana)](https://grafana.com/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=Prometheus&logoColor=Prometheus)](https://prometheus.io/)
 
 ---
 
