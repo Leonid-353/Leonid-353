@@ -40,13 +40,13 @@
 [![Liquibase](https://img.shields.io/badge/Liquibase-black?style=for-the-badge)](https://www.liquibase.com/)
 [![Flyway](https://img.shields.io/badge/Flyway-black?style=for-the-badge)](https://www.red-gate.com/products/flyway/)
 [![Maven](https://img.shields.io/badge/Apache%20Maven-black?style=for-the-badge&logo=apachemaven&logoColor=C71A36)](https://maven.apache.org/)
-[![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=Gradle&logoColor=gradle)](https://gradle.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=Gradle&logoColor=%2302303A.svg)](https://gradle.org/)
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=%23F05033.svg)](https://git-scm.com/)
 [![Mockito](https://img.shields.io/badge/Mockito-black?style=for-the-badge)](https://site.mockito.org/)
 [![JUnit](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=junit5&logoColor=dc524a)](https://junit.org/)
 [![Testcontainers](https://img.shields.io/badge/Testcontainers-black?style=for-the-badge)](https://testcontainers.com/)
-[![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana&logoColor=grafana)](https://grafana.com/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=Prometheus&logoColor=Prometheus)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana&logoColor=%23F46800.svg)](https://grafana.com/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=Prometheus&logoColor=%23E6522C.svg)](https://prometheus.io/)
 
 ---
 
